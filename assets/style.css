@@ -1,0 +1,46 @@
+body {
+  background-color: #77f2ea;
+}
+img {
+  height: 200px;
+  border-radius: 4%;
+  margin-left: 50%;
+}
+a {
+  color: black;
+  text-decoration: none;
+  font-family: "Pixelify Sans", cursive;
+  padding: 10px;
+  background-color: #2bd6cb;
+  border-radius: 12%;
+  margin-bottom: 20px;
+}
+h3 {
+  text-align: left;
+  font-family: "Josefin Sans", sans-serif;
+  margin: 40px;
+}
+h2 {
+  text-align: left;
+  font-family: "Josefin Sans", sans-serif;
+  margin: 40px;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: "Quicksand", sans-serif;
+}
+li {
+  font-family: "Quicksand", sans-serif;
+}
+hr {
+  margin-top: 20px;
+}
+h1 {
+  text-align: left;
+  font-family: "Josefin Sans", sans-serif;
+  margin: 40px;
+}
+.addpad {
+  margin-bottom: 20px;
+}
